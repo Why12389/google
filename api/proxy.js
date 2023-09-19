@@ -1,7 +1,7 @@
 const { createProxyMiddleware } = require("http-proxy-middleware");
 
 module.exports = (req, res) => {
-  let target = "https://now.gg/play/roblox-corporation/5349/roblox/";//your website url
+  let target = "https://universityequality.com/?utm_source=proxy&utm_medium=browser&utm_campaign=nowgg_proxy/";//your website url
   //   if (
   //     req.url.startsWith("/api") ||
   //     req.url.startsWith("/auth") ||

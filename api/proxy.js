@@ -1,7 +1,7 @@
 const { createProxyMiddleware } = require("http-proxy-middleware");
 
 module.exports = (req, res) => {
-  let target = "https://universityequality.com/?utm_source=proxy&utm_medium=browser&utm_campaign=nowgg_proxy/";//your website url
+  let target = "http://nowgg.me/";//your website url
   //   if (
   //     req.url.startsWith("/api") ||
   //     req.url.startsWith("/auth") ||
